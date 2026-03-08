@@ -103,6 +103,32 @@ Users can interact with these filters to analyze specific segments and uncover d
 
 ---
 
+## 📈 Business Impact
+
+This dashboard helps business stakeholders quickly understand sales performance and identify growth opportunities.
+
+Key benefits include:
+
+• Faster decision-making using centralized sales KPIs  
+• Identification of top-performing regions and cities  
+• Ability to monitor monthly sales trends and seasonal demand patterns  
+• Interactive filtering for deeper analysis across customer segments and product categories  
+
+By transforming raw sales data into clear visual insights, this dashboard supports **data-driven business strategy and operational planning**.
+
+---
+
+## 🧠 Skills Demonstrated
+
+• Data Visualization  
+• Business Intelligence Dashboard Design  
+• KPI Development  
+• Geographic Data Analysis  
+• Interactive Dashboard Filtering  
+• Data Storytelling
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 • **Tableau Desktop** – Data visualization and dashboard creation
