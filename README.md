@@ -8,7 +8,7 @@ The goal of this project is to demonstrate how **data visualization and business
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Dashboard_Preview.png)
+![Sales Dashboard](./Dashboard_Preview.png)
 
 ---
 
