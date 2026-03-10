@@ -11,6 +11,11 @@ The goal of this project is to demonstrate how **data visualization and business
 ![Sales Dashboard](Dashboard_Preview.png)
 
 ---
+### 🔗 Live Dashboard
+Explore the interactive dashboard on Tableau Public:
+
+https://public.tableau.com/app/profile/nishant.suryawanshi2349/viz/SalesPerformanceDashboard_17730544601520/SalesPerformanceDashboard
+---
 
 ## 🎯 Business Objective
 
